@@ -1,3 +1,4 @@
+package Prueba.tareas;
 import java.util.Scanner;
 
 public class Ejercicio5 {
